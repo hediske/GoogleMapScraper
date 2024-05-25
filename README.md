@@ -13,4 +13,4 @@ python main.py
 enjoyy ! ;)
 
 ### Why this Project 
-the goal of this project was mainly to help find internships 
+the goal of this project was mainly to help finding internships around .
